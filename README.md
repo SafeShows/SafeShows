@@ -4,7 +4,7 @@
 - 👀 I’m interested in: Aviation and Programming
 - 🌱 I’m currently learning: Nothing
 - 💞️ I’m looking to collaborate on: Not at the moment
-- 📫 How to reach me: Discord -> SafeShows#2002
+- 📫 How to reach me: Discord -> BlackFox#1401
 - 🌐 Website: Working On It
 
 ### My Tools
