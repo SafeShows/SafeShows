@@ -31,9 +31,3 @@
 - <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
 - <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 - <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-
-### Github Stats
-
-![SafeShows GitHub stats](https://github-readme-stats.vercel.app/api?username=SafeShows&show_icons=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafeShows&show_icons=true&theme=vue-dark)
-
-
