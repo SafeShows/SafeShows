@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in: Aviation and Programming
-- 🌱 I’m currently learning: Nothing
+- 🌱 I’m currently learning: T3.gg stack
 - 💞️ I’m looking to collaborate on: Not at the moment
 - 📫 How to reach me: Discord -> SafeShows#5341
 - 🌐 Website: Working On It
